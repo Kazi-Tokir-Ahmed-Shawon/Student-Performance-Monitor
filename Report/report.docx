@@ -1,0 +1,27 @@
+CHAPTER 1
+
+INTRODUCTION
+● BACKGROUND OF THE PROJECT
+● OBJECTIVE OF THE PROJECT
+● SCOPE OF THE PROJECT
+
+
+
+BACKGROUND OF THE PROJECT:
+The academic process of higher education must achieve something that improves the learning process. To make this happen, universities must monitor and evaluate the results of 
+the teaching process by looking at student performance. We are going to design, create and deliver software that will help universities promote a more productive and effective 
+way to assess students everywhere and that is the goal of our project.Performance monitoring includes assessments that play an important role in providing students, teachers, 
+administrators, and policymakers with the information they need to make decisions.If we talk about the main part of our project, here is the concept of Course Outcome (CO) 
+and Program Learning Outcomes (PLO), each CO is mapped to a PLO, and through each PLO students are expected to learn from the course 'problem analysis, design, Skill
+implementation, etc. 'will be known. The system allows input from IEB to determine PLO requirements. The project will evaluate to see if the COS mapped PLOs are met for
+each student to assess student proficiency. Faculties then input COs for each of their students so that the system can map the COs to the PLO accordingly. PLOs are carefully 
+and specially selected to ensure that students achieve the most in a course so that students can monitor their progress in each sector and pinpoint the areas where self-
+improvement and self-development are needed. We are hopeful that our software will help institutional students’ progress, departmental performance and assist in the distribution
+and allocation of their improved resources.
+
+OBJECTIVE OF THE PROJECT:
+Student progress monitoring is a practice that helps teachers continually evaluate the effectiveness of their learning and use student performance data to make more significant 
+instructional decisions. If the rate at which a particular student is learning seems inadequate, the teacher can adjust the instruction. Our project seeks to create user-friendly
+software that will serve as a platform for many to improve the quality of education of students, faculty, and other members of the university and in advanced technology in the 
+field of education. We believe that the information we have collected, evaluated, and equipped will lead to opportunities for greater advances in our education and will also make
+a significant contribution to computer science.
